@@ -41,6 +41,4 @@ if __name__ == '__main__':
     scrap.plot_intraday_graphs()
     scrap.run_analysis()
 
-    print("lalson")
-
 
